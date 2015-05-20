@@ -1,0 +1,25 @@
+{
+  "projects":[
+	     	{
+		 "name":"project_name",
+		 "src_dir":"path_to_project",
+		 "langs":[
+		          "language_to_measure_1", 
+		          "language_to_measure_2"
+			 ],
+		 "ignore_list":[
+				"ignore_path_1",
+				"ignore_path_2",
+				"ignore_path_3"
+			       ]
+		},
+	     	{
+		 "name":"project_name_2",
+		 "src_dir":"path_to_project_2",
+		 "langs":[
+		          "language_to_measure_1"
+			 ],
+		 "ignore_list":[]
+		}
+             ]
+}
