@@ -1,1 +1,22 @@
-a simple tool - to get some stats about programming habits
+
+
+	1kgcode
+
+	
+	- generates your programming "Skills Network"
+
+		takes some info about your code projects from a json file
+		(see input_example.json)
+
+		and generates the skills graph
+
+		it draws the graph using the graphDraw tool
+		https://github.com/PanosRCng/graphDraw
+
+
+	requirements:
+
+		- python 2.7
+		- PyGame (http://www.pygame.org/hifi.html)
+
+

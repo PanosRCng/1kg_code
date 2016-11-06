@@ -1,0 +1,28 @@
+
+	graphDraw
+
+	- graph drawing for undirected graphs
+
+		uses an implementation of the Force-directed Placement algorithm
+		as described in Graph Drawing by Force-directed Placement
+		http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8444&rep=rep1&type=pdf
+
+
+	requirements:
+	
+		- python 2.7
+		- PyGame (http://www.pygame.org/hifi.html)
+
+
+	usage:
+
+		after imported, call the draw(vertex_list, edge_list)
+
+		the vertex_list is a list with instances of the Vertex class
+		(as defined in graphDraw.graph)
+		
+		the edge_list is a list with instances of the Edge class
+		(as defined in graphDraw.graph)
+
+
+

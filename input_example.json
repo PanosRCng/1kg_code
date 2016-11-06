@@ -7,6 +7,10 @@
 		          "language_to_measure_1", 
 		          "language_to_measure_2"
 			 ],
+		 "tags":[
+			 "tag_1",
+			 "tag_2"			
+			],
 		 "ignore_list":[
 				"ignore_path_1",
 				"ignore_path_2",
